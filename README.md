@@ -1,6 +1,8 @@
 # CurrencySense: Assisting Visually Impaired Individuals in Detecting Counterfeit Currency
 
-![CurrencySense Logo](./images/currencysense-logo.png)
+<p align="center">
+  <img src="https://i0.wp.com/www.washingtontechnology.org/wp-content/uploads/2022/06/dei-visually-impaired.png?fit=980%2C550&ssl=1" alt="CurrencySense Image">
+</p>
 
 Welcome to CurrencySense, a repository dedicated to developing solutions that help visually impaired individuals identify counterfeit currency notes. This project aims to bridge the gap and empower individuals with visual impairments to make informed decisions while handling cash.
 
