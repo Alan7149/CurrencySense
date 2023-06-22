@@ -47,8 +47,7 @@ Visually impaired individuals often struggle with visually inspecting currency n
 
 ## Contributing
 
-CurrencySense is an open-source project, and we welcome contributions from the community. If you would like to contribute, please follow the guidelines outlined in [CONTRIBUTING.md](./CONTRIBUTING.md).
-
+CurrencySense is an open-source project, and we welcome contributions from the community. 
 This project was contributed to by the following individuals:
 
 - Biswayan Mehra - [biswayanmehra@karunya.edu.in](mailto:biswayanmehra@karunya.edu.in)
