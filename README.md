@@ -10,7 +10,6 @@ Welcome to CurrencySense, a repository dedicated to developing solutions that he
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
